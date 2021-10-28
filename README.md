@@ -1,5 +1,5 @@
 # {
-  "title": "",
-  "text": "",
+  "title": "سلام",
+  "text": "خوبی ؟",
   "on-off": true
 }
